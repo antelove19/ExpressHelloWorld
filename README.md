@@ -1,2 +1,0 @@
-# ExpressHelloWorld
-Created with CodeSandbox
